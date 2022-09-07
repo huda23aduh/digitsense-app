@@ -11,6 +11,7 @@ this repo contain backend-app and frontend-app.
 1. cd into backend-digitsense
 2. npm/yarn install. Wait until finish
 3. create .env file, then paste the following code into it.
+
     ACCESS_TOKEN_SECRET = jsfgfjguwrg8783wgbjs849h2fu3cnsvh8wyr8fhwfvi2g225
     
     REFRESH_TOKEN_SECRET = 825y8i3hnfjmsbv7gwajbl7fobqrjfvbs7gbfj2q3bgh8f42
